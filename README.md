@@ -1,4 +1,4 @@
-# Cadastro-formulario-VUE
+# Cadastro formulário VUE
 
 O projeto é baseado no cadastro de integrantes de uma banda , os dados são pegos do formulário e inseridos em um objeto e inserindos nos elementos html, utilizando o v-model
 
